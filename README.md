@@ -64,7 +64,3 @@ This project is a Salesforce-based CRM and inventory management solution develop
 
 **Aditya Raj**
 *MCA 2nd Semester, Lakshmi Narain College of Technology*
-
----
-
-Let me know if you need a version with GitHub-style formatting or markdown badges.
